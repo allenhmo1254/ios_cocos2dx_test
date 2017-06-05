@@ -1,0 +1,235 @@
+<skeleton name="circle" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="circle">
+      <b name="1" x="-0.25" y="0.35" kX="0" kY="0" cX="2.2" cY="2.2" pX="456.1" pY="456.1" z="0">
+        <d name="circle_zhuanpan-cell-q1" pX="-209.8" pY="-221.7"/>
+        <d name="circle_zhuanpan-cell-circle1245" pX="112" pY="111.95"/>
+        <d name="circle_zhuanpan-cell-guangdian" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-landeng3" pX="0" pY="0"/>
+      </b>
+      <b name="3" x="0.9" y="1.9" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0">
+        <d name="circle_zhuanpan-cell-1" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-2" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-3" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-4" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-5" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-6" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-7" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-8" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-9" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-10" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-11" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-12" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-13" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-14" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-15" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-16" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-17" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-18" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-19" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a1" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a2" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a3" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a4" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a5" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a6" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a7" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a8" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a9" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a10" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a11" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a12" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a13" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a14" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a15" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a16" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a17" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-a18" pX="0" pY="0"/>
+        <d name="circle_zhuanpan-cell-landeng3" pX="0" pY="0"/>
+      </b>
+      <b name="6" x="-411.1" y="-149.8" kX="0" kY="0" cX="1" cY="1" pX="28" pY="46" z="0">
+        <d name="circle_zhuanpan-cell-landeng3" pX="0" pY="0"/>
+      </b>
+      <b name="5" x="-380.9" y="209.45" kX="-53.2" kY="-53.2" cX="1" cY="1" pX="28.05" pY="46.05" z="1">
+        <d name="circle_zhuanpan-cell-landeng3" pX="0" pY="0"/>
+      </b>
+      <b name="4" x="-164.1" y="402.6" kX="-86.91" kY="-86.91" cX="1" cY="1" pX="28" pY="46" z="1">
+        <d name="circle_zhuanpan-cell-landeng3" pX="0" pY="0"/>
+      </b>
+      <b name="2" x="179.3" y="395.1" kX="-137.9" kY="-137.9" cX="1" cY="1" pX="27.95" pY="45.95" z="1">
+        <d name="circle_zhuanpan-cell-landeng3" pX="0" pY="0"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="circle">
+      <mov name="bigcircle" dr="13" to="0" drTW="13" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="-0.25" y="0.35" cocos2d_x="-1003.65" cocos2d_y="-1003.05" kX="0" kY="0" cX="2.2" cY="2.2" pX="456.1" pY="456.1" z="0" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.25" y="0.35" cocos2d_x="-1003.65" cocos2d_y="-1003.05" kX="0" kY="0" cX="2.2" cY="2.2" pX="456.1" pY="456.1" z="0" dI="0" dr="1" twR="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="spincircle" dr="16" to="0" drTW="16" lp="1" twE="NaN">
+        <b name="1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.04" cY="1.04" pX="0" pY="0" z="0" dI="1" twE="0" dr="15"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.04" cY="1.04" pX="0" pY="0" z="0" dI="1" twE="0" twR_="-1" dr="1" twR="-1"/>
+        </b>
+      </mov>
+      <mov name="spincircle1" dr="41" to="0" drTW="41" lp="1" twE="NaN">
+        <b name="3" sc="1" dl="0">
+          <f x="0.9" y="1.9" cocos2d_x="-104.1" cocos2d_y="-103.1" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="0" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="1" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="2" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="3" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="4" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="5" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="6" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="7" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="8" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="9" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="10" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="11" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="12" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="13" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="14" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="15" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="16" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="17" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0" y="-2" cocos2d_x="-105" cocos2d_y="-107" kX="0" kY="0" cX="1" cY="1" pX="105" pY="105" z="0" dI="18" twE="NaN" tweenFrame="false" dr="1"/>
+          <f dr="22" dI="-1"/>
+        </b>
+      </mov>
+      <mov name="circle2" dr="45" to="0" drTW="45" lp="1" twE="NaN">
+        <b name="3" sc="1" dl="0">
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="19" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="20" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="21" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="22" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="23" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="24" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="25" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="26" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="27" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="28" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="29" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="30" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="31" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="32" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="33" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="34" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="35" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="1" y="-3" cocos2d_x="-432.95" cocos2d_y="-436.95" kX="0" kY="0" cX="1.74" cY="1.74" pX="250.05" pY="250" z="0" dI="36" twE="NaN" tweenFrame="false" dr="1"/>
+          <f dr="27" dI="-1"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-24" y="-510.2" cocos2d_x="-57.4" cocos2d_y="-510.3" kX="-45" kY="-45" cX="0.37" cY="0.37" pX="63.15" pY="63.45" z="1" dI="2" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-24.05" y="-510.15" cocos2d_x="-42.3" cocos2d_y="-579.35" kX="30" kY="30" cX="0.8" cY="0.8" pX="63" pY="63.55" z="0" dI="2" twE="0" dr="9"/>
+          <f x="-24" y="-510.1" cocos2d_x="12.05" cocos2d_y="-571.95" kX="75" kY="75" cX="0.8" cY="0.8" pX="63.05" pY="63.55" z="0" dI="2" twE="0" dr="6"/>
+          <f x="-24" y="-510.1" cocos2d_x="31.4" cocos2d_y="-524.7" kX="120" kY="120" cX="0.64" cY="0.64" pX="63.05" pY="63.6" z="0" dI="2" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="12" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="17" dI="-1"/>
+        </b>
+      </mov>
+      <mov name="light" dr="35" to="0" drTW="35" lp="1" twE="NaN">
+        <b name="6" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="-411.1" y="-149.8" cocos2d_x="-439.1" cocos2d_y="-195.8" kX="0" kY="0" cX="1" cY="1" pX="28" pY="46" z="0" dI="0" twE="0" dr="8"/>
+          <f x="-411.1" y="-149.8" cocos2d_x="-439.1" cocos2d_y="-195.8" kX="0" kY="0" cX="1" cY="1" pX="28" pY="46" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="6" dI="-1"/>
+        </b>
+        <b name="5" sc="1" dl="0">
+          <f dr="16" dI="-1"/>
+          <f x="-380.9" y="209.45" cocos2d_x="-434.55" cocos2d_y="204.3" kX="-53.2" kY="-53.2" cX="1" cY="1" pX="28.05" pY="46.05" z="1" dI="0" twE="0" dr="8"/>
+          <f x="-380.9" y="209.45" cocos2d_x="-434.55" cocos2d_y="204.3" kX="-53.2" kY="-53.2" cX="1" cY="1" pX="28.05" pY="46.05" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="4" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="-164.1" y="402.6" cocos2d_x="-211.55" cocos2d_y="428.1" kX="-86.91" kY="-86.91" cX="1" cY="1" pX="28" pY="46" z="1" dI="0" twE="0" dr="8"/>
+          <f x="-164.1" y="402.6" cocos2d_x="-211.55" cocos2d_y="428.1" kX="-86.91" kY="-86.91" cX="1" cY="1" pX="28" pY="46" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="179.3" y="395.1" cocos2d_x="169.2" cocos2d_y="447.95" kX="-137.9" kY="-137.9" cX="1" cY="1" pX="27.95" pY="45.95" z="1" dI="0" twE="0" dr="8"/>
+          <f x="179.3" y="395.1" cocos2d_x="169.2" cocos2d_y="447.95" kX="-137.9" kY="-137.9" cX="1" cY="1" pX="27.95" pY="45.95" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="18" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="387.85" y="203.25" cocos2d_x="410.25" cocos2d_y="252.15" kX="-173.36" kY="-173.36" cX="1" cY="1" pX="27.9" pY="45.95" z="1" dI="37" twE="0" dr="8"/>
+          <f x="387.85" y="203.25" cocos2d_x="410.25" cocos2d_y="252.15" kX="-173.36" kY="-173.36" cX="1" cY="1" pX="27.9" pY="45.95" z="2" dI="37" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="22" dI="-1"/>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="411.7" y="-154.6" cocos2d_x="463.65" cocos2d_y="-140.7" kX="136.2" kY="136.2" cX="1" cY="1" pX="27.9" pY="46" z="1" dI="3" twE="0" dr="8"/>
+          <f x="411.7" y="-154.6" cocos2d_x="463.65" cocos2d_y="-140.7" kX="136.2" kY="136.2" cX="1" cY="1" pX="27.9" pY="46" z="2" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="26" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="circle" width="4096" height="2048">
+    <SubTexture name="circle_zhuanpan-cell-a18" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="502" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a17" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="1506" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a16" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="1506" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a15" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="0" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-a14" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="2510" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a13" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="2510" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a12" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="3514" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a11" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="502" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-a10" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="502" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a9" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="3514" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a8" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a7" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="1004" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a6" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="2008" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a5" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="3012" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-a4" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="0" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a3" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="1004" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a2" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="2008" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-a1" width="500" height="500" cocos2d_pX="0" cocos2d_pY="0" x="3012" y="502"/>
+    <SubTexture name="circle_zhuanpan-cell-19" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2995" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-18" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="3419" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-17" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="1723" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-16" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2147" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-15" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2147" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-14" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2699" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-13" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2359" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-12" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="3123" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-11" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2571" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-10" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="3547" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-9" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2783" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-8" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="1723" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-7" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="3207" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-6" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="1935" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-5" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2487" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-4" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="2911" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-3" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="3335" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-2" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="3759" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-1" width="210" height="210" cocos2d_pX="0" cocos2d_pY="0" x="1935" y="1216"/>
+    <SubTexture name="circle_zhuanpan-cell-landeng3" width="56" height="92" cocos2d_pX="0" cocos2d_pY="0" x="4016" y="0"/>
+    <SubTexture name="circle_zhuanpan-cell-guangdian" width="126" height="127" cocos2d_pX="0" cocos2d_pY="0" x="2359" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-circle1245" width="225" height="225" cocos2d_pX="112" cocos2d_pY="111.95" x="1496" y="1004"/>
+    <SubTexture name="circle_zhuanpan-cell-q1" width="490" height="470" cocos2d_pX="-209.8" cocos2d_pY="-221.7" x="1004" y="1004"/>
+  </TextureAtlas>
+</skeleton>

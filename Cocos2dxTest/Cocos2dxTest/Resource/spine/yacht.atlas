@@ -1,0 +1,55 @@
+
+yacht.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/sea-1-1
+  rotate: false
+  xy: 2, 69
+  size: 1200, 182
+  orig: 1200, 182
+  offset: 0, 0
+  index: -1
+image/sea-1-2
+  rotate: true
+  xy: 2, 38
+  size: 29, 460
+  orig: 29, 460
+  offset: 0, 0
+  index: -1
+image/sea-2-1
+  rotate: false
+  xy: 2, 253
+  size: 1200, 197
+  orig: 1200, 197
+  offset: 0, 0
+  index: -1
+image/sea-2-2
+  rotate: true
+  xy: 1204, 441
+  size: 39, 428
+  orig: 39, 428
+  offset: 0, 0
+  index: -1
+image/sea-3-1
+  rotate: false
+  xy: 2, 452
+  size: 1200, 316
+  orig: 1200, 316
+  offset: 0, 0
+  index: -1
+image/sea-3-2
+  rotate: true
+  xy: 2, 2
+  size: 34, 430
+  orig: 34, 430
+  offset: 0, 0
+  index: -1
+image/yacht
+  rotate: false
+  xy: 1204, 482
+  size: 512, 286
+  orig: 517, 297
+  offset: 5, 8
+  index: -1

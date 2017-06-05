@@ -1,0 +1,69 @@
+
+gold.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image2/coin1
+  rotate: false
+  xy: 2, 77
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+image2/coin2
+  rotate: false
+  xy: 2, 2
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+image2/coin3
+  rotate: false
+  xy: 114, 122
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+image2/design
+  rotate: false
+  xy: 2, 189
+  size: 192, 120
+  orig: 192, 120
+  offset: 0, 0
+  index: -1
+image2/fu
+  rotate: false
+  xy: 725, 642
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+image2/fu2
+  rotate: false
+  xy: 863, 828
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+image2/fu3
+  rotate: true
+  xy: 196, 237
+  size: 72, 141
+  orig: 72, 141
+  offset: 0, 0
+  index: -1
+image2/shadow
+  rotate: false
+  xy: 2, 311
+  size: 721, 627
+  orig: 721, 627
+  offset: 0, 0
+  index: -1
+image2/star
+  rotate: false
+  xy: 725, 786
+  size: 136, 152
+  orig: 136, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,58 @@
+<skeleton name="sit" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="sit">
+   <b name="diyuan" x="1" y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="81.5" pY="81.5" z="0">
+    <d name="sit_wpt-cell-diyuan" pX="0" pY="0"/>
+   </b>
+   <b name="arrow" x="0" y="1" kX="0" kY="0" cX="1" cY="1" pX="44.5" pY="65" z="1">
+    <d name="sit_wpt-cell-arrow" pX="0" pY="0"/>
+   </b>
+   <b name="arrow0" x="0" y="-8" kX="0" kY="0" cX="0.8" cY="0.8" pX="44.5" pY="65" z="2">
+    <d name="sit_wpt-cell-arrow" pX="0" pY="0"/>
+   </b>
+   <b name="yuanhuan" x="0.1" y="-0.85" kX="0" kY="0" cX="1.88" cY="1.88" pX="0" pY="0" z="2">
+    <d name="sit_wpt-cell-yuanhuan" pX="46" pY="46"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="sit">
+   <mov name="sit" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+    <b name="diyuan" sc="1" dl="0">
+     <f x="1" y="-0.5" cocos2d_x="-80.5" cocos2d_y="-82" kX="0" kY="0" cX="1" cY="1" pX="81.5" pY="81.5" z="0" dI="0" twE="0" dr="21"/>
+     <f x="1" y="-0.5" cocos2d_x="-80.5" cocos2d_y="-82" kX="0" kY="0" cX="1" cY="1" pX="81.5" pY="81.5" z="0" dI="0" twE="0" dr="28"/>
+     <f x="1" y="-0.5" cocos2d_x="-80.5" cocos2d_y="-82" kX="0" kY="0" cX="1" cY="1" pX="81.5" pY="81.5" z="0" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="arrow" sc="1" dl="0">
+     <f x="0" y="1" cocos2d_x="-44.5" cocos2d_y="-64" kX="0" kY="0" cX="1" cY="1" pX="44.5" pY="65" z="1" dI="0" twE="0" dr="21"/>
+     <f x="0" y="11" cocos2d_x="-44.5" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="44.5" pY="65" z="1" dI="0" twE="0" dr="28"/>
+     <f x="0" y="1" cocos2d_x="-44.5" cocos2d_y="-64" kX="0" kY="0" cX="1" cY="1" pX="44.5" pY="65" z="1" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="arrow0" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="0" y="-8" cocos2d_x="-35.6" cocos2d_y="-60" kX="0" kY="0" cX="0.8" cY="0.8" pX="44.5" pY="65" z="2" dI="0" twE="0" dr="10">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-0.05" y="7" cocos2d_x="-54.25" cocos2d_y="-72.2" kX="0" kY="0" cX="1.22" cY="1.22" pX="44.45" pY="65" z="2" dI="0" twE="0" dr="19"/>
+     <f x="0" y="9" cocos2d_x="-58.3" cocos2d_y="-76.15" kX="0" kY="0" cX="1.31" cY="1.31" pX="44.5" pY="64.95" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="yuanhuan" sc="1" dl="0">
+     <f x="0.1" y="-0.85" cocos2d_x="0.1" cocos2d_y="-0.85" kX="0" kY="0" cX="1.88" cY="1.88" pX="0" pY="0" z="2" dI="0" twE="0" dr="49">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.1" y="-0.85" cocos2d_x="0.1" cocos2d_y="-0.85" kX="0" kY="0" cX="1.88" cY="1.88" pX="0" pY="0" z="2" dI="0" twE="0" dr="1" twR="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="sit" width="256" height="512">
+  <SubTexture name="sit_wpt-cell-yuanhuan" width="92" height="92" cocos2d_pX="46" cocos2d_pY="46" x="0" y="165"/>
+  <SubTexture name="sit_wpt-cell-arrow" width="89" height="130" cocos2d_pX="0" cocos2d_pY="0" x="165" y="0"/>
+  <SubTexture name="sit_wpt-cell-diyuan" width="163" height="163" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

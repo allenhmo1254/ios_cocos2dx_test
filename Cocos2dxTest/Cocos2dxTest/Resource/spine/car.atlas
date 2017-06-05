@@ -1,0 +1,167 @@
+
+car.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/car
+  rotate: false
+  xy: 2, 673
+  size: 938, 349
+  orig: 963, 369
+  offset: 9, 0
+  index: -1
+image/fire/001
+  rotate: false
+  xy: 1542, 418
+  size: 173, 97
+  orig: 253, 241
+  offset: 51, 6
+  index: -1
+image/fire/002
+  rotate: true
+  xy: 1865, 825
+  size: 197, 170
+  orig: 253, 241
+  offset: 41, 7
+  index: -1
+image/fire/003
+  rotate: true
+  xy: 1171, 430
+  size: 228, 210
+  orig: 253, 241
+  offset: 19, 7
+  index: -1
+image/fire/005
+  rotate: false
+  xy: 920, 430
+  size: 249, 228
+  orig: 253, 241
+  offset: 0, 8
+  index: -1
+image/light
+  rotate: false
+  xy: 1253, 873
+  size: 343, 149
+  orig: 425, 158
+  offset: 16, 0
+  index: -1
+image/smoke/001
+  rotate: false
+  xy: 1697, 759
+  size: 62, 31
+  orig: 332, 215
+  offset: 123, 107
+  index: -1
+image/smoke/002
+  rotate: false
+  xy: 1697, 792
+  size: 166, 87
+  orig: 332, 215
+  offset: 78, 76
+  index: -1
+image/smoke/003
+  rotate: false
+  xy: 1598, 881
+  size: 265, 141
+  orig: 332, 215
+  offset: 32, 43
+  index: -1
+image/smoke/005
+  rotate: false
+  xy: 942, 660
+  size: 277, 164
+  orig: 332, 215
+  offset: 26, 28
+  index: -1
+image/smoke/006
+  rotate: false
+  xy: 622, 490
+  size: 296, 181
+  orig: 332, 215
+  offset: 16, 18
+  index: -1
+image/smoke/007
+  rotate: false
+  xy: 316, 480
+  size: 304, 191
+  orig: 332, 215
+  offset: 12, 15
+  index: -1
+image/smoke/008
+  rotate: false
+  xy: 942, 826
+  size: 309, 196
+  orig: 332, 215
+  offset: 10, 13
+  index: -1
+image/smoke/010
+  rotate: false
+  xy: 2, 476
+  size: 312, 195
+  orig: 332, 215
+  offset: 9, 12
+  index: -1
+image/smoke/011
+  rotate: false
+  xy: 2, 278
+  size: 309, 196
+  orig: 332, 215
+  offset: 11, 10
+  index: -1
+image/star
+  rotate: false
+  xy: 1865, 780
+  size: 43, 43
+  orig: 62, 54
+  offset: 10, 3
+  index: -1
+image/wei fire/01
+  rotate: true
+  xy: 1383, 368
+  size: 99, 119
+  orig: 274, 190
+  offset: 0, 60
+  index: -1
+image/wei fire/02
+  rotate: false
+  xy: 1512, 724
+  size: 183, 147
+  orig: 274, 190
+  offset: 0, 39
+  index: -1
+image/wei fire/03
+  rotate: true
+  xy: 1542, 517
+  size: 205, 159
+  orig: 274, 190
+  offset: 0, 25
+  index: -1
+image/wei fire/04
+  rotate: true
+  xy: 1383, 469
+  size: 244, 157
+  orig: 274, 190
+  offset: 0, 18
+  index: -1
+image/wei fire/05
+  rotate: false
+  xy: 1253, 715
+  size: 257, 156
+  orig: 274, 190
+  offset: 0, 10
+  index: -1
+image/wei fire/06
+  rotate: true
+  xy: 154, 8
+  size: 268, 158
+  orig: 274, 190
+  offset: 0, 7
+  index: -1
+image/wei fire/07
+  rotate: true
+  xy: 2, 2
+  size: 274, 150
+  orig: 274, 190
+  offset: 0, 10
+  index: -1

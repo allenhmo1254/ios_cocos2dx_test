@@ -1,0 +1,32 @@
+<skeleton name="poker" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="poker">
+      <b name="poker0" x="7" y="96.05" kX="0" kY="0" cX="1" cY="1" pX="70" pY="184" z="0">
+        <d name="poker_wpt-cell-back" pX="0" pY="0"/>
+        <d name="poker_wpt-cell-ryf" pX="0" pY="0"/>
+        <d name="poker_wpt-cell-dsdsd" pX="0" pY="-1.25"/>
+        <d name="poker_wpt-cell-ioioio" pX="0" pY="2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="poker">
+      <mov name="poker" dr="6" to="0" drTW="6" lp="0" twE="NaN">
+        <b name="poker0" sc="1" dl="0">
+          <f x="7" y="96.05" cocos2d_x="-63" cocos2d_y="-87.95" kX="0" kY="0" cX="1" cY="1" pX="70" pY="184" z="0" dI="0" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="5.3" y="0.3" cocos2d_x="-25.45" cocos2d_y="-106.05" kX="0" kY="0" cX="1.44" cY="1.44" pX="21.35" pY="73.85" z="0" dI="1" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="2.95" y="-1.5" cocos2d_x="-35.05" cocos2d_y="-108.45" kX="0" kY="0" cX="1.73" cY="1.73" pX="22" pY="61.9" z="0" dI="2" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="5.3" y="0.3" cocos2d_x="36.05" cocos2d_y="-106.05" kX="0" kY="180" cX="1.44" cY="1.44" pX="21.35" pY="73.85" z="0" dI="1" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="6.35" y="-0.6" cocos2d_x="-28.5" cocos2d_y="-98.65" kX="0" kY="0" cX="1.58" cY="1.58" pX="22" pY="61.9" z="0" dI="2" twE="NaN" tweenFrame="false" dr="1"/>
+          <f x="0.3" y="-0.45" cocos2d_x="-56.25" cocos2d_y="-88.35" kX="0" kY="0" cX="1.41" cY="1.57" pX="40" pY="55.8" z="0" dI="3" twE="NaN" tweenFrame="false" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="poker" width="256" height="512">
+    <SubTexture name="poker_wpt-cell-ioioio" width="81" height="116" cocos2d_pX="0" cocos2d_pY="2" x="142" y="0"/>
+    <SubTexture name="poker_wpt-cell-dsdsd" width="45" height="122" cocos2d_pX="0" cocos2d_pY="-1.25" x="187" y="118"/>
+    <SubTexture name="poker_wpt-cell-ryf" width="43" height="148" cocos2d_pX="0" cocos2d_pY="0" x="142" y="118"/>
+    <SubTexture name="poker_wpt-cell-back" width="140" height="184" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

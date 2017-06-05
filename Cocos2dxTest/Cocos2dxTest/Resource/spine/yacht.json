@@ -1,0 +1,449 @@
+{
+"skeleton": { "hash": "t2ZKZb+heeSul+Fge+8uR0yjkbU", "spine": "3.4.02", "width": 2000, "height": 2007.03, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fireworks", "parent": "root", "length": 381.64, "rotation": -88.43, "x": -47.17, "y": -295.03, "color": "f500d4ff" },
+	{ "name": "F1", "parent": "fireworks", "length": 530.59, "rotation": 179.84, "x": -18.64, "y": -12.55, "color": "f500d4ff" },
+	{ "name": "F2", "parent": "fireworks", "length": 530.59, "rotation": 164.84, "x": 25.72, "y": 21.3, "color": "f500d4ff" },
+	{
+		"name": "F3",
+		"parent": "fireworks",
+		"length": 530.59,
+		"rotation": -166.87,
+		"x": 112.02,
+		"y": 0.56,
+		"scaleX": 0.902,
+		"scaleY": 0.902,
+		"color": "f500d4ff"
+	},
+	{
+		"name": "F4",
+		"parent": "fireworks",
+		"length": 530.59,
+		"rotation": 169.96,
+		"x": 72.07,
+		"y": 66.81,
+		"scaleX": 0.879,
+		"scaleY": 0.879,
+		"color": "f500d4ff"
+	},
+	{
+		"name": "F5",
+		"parent": "fireworks",
+		"length": 530.59,
+		"rotation": 171.98,
+		"x": 64.16,
+		"y": 21.92,
+		"scaleX": 0.591,
+		"scaleY": 0.591,
+		"color": "f500d4ff"
+	},
+	{ "name": "F6", "parent": "fireworks", "length": 530.59, "rotation": 172.28, "x": -18.64, "y": -12.55, "color": "f500d4ff" },
+	{
+		"name": "F7",
+		"parent": "fireworks",
+		"length": 530.59,
+		"rotation": -166.26,
+		"x": 7.97,
+		"y": -16.62,
+		"scaleX": 0.889,
+		"scaleY": 0.889,
+		"color": "f500d4ff"
+	},
+	{ "name": "F8", "parent": "fireworks", "length": 530.59, "rotation": 172.36, "x": 14.88, "y": -8.46, "color": "f500d4ff" },
+	{ "name": "bubble", "parent": "root", "length": 353.44, "rotation": -90.02, "x": -515.81, "y": -692.75, "color": "46d2faff" },
+	{ "name": "O1", "parent": "bubble", "length": 332.31, "rotation": -179.61, "x": -81.55, "y": 191.47, "color": "46d2faff" },
+	{
+		"name": "O2",
+		"parent": "bubble",
+		"length": 332.31,
+		"rotation": -179.61,
+		"x": -355.36,
+		"y": 235.23,
+		"scaleX": 0.632,
+		"scaleY": 0.632,
+		"color": "46d2faff"
+	},
+	{ "name": "O3", "parent": "bubble", "length": 332.31, "rotation": -179.61, "x": 47.97, "y": 296.04, "color": "46d2faff" },
+	{ "name": "O4", "parent": "bubble", "length": 332.31, "rotation": -179.61, "x": 167.05, "y": 377.61, "color": "46d2faff" },
+	{ "name": "O5", "parent": "bubble", "length": 332.31, "rotation": -179.61, "x": 146.09, "y": 511.36, "color": "46d2faff" },
+	{ "name": "O6", "parent": "bubble", "length": 332.31, "rotation": -179.61, "x": 76.99, "y": 776.75, "color": "46d2faff" },
+	{
+		"name": "O7",
+		"parent": "bubble",
+		"length": 332.31,
+		"rotation": -179.61,
+		"x": -257.42,
+		"y": 814.21,
+		"scaleX": 0.813,
+		"scaleY": 0.813,
+		"color": "46d2faff"
+	},
+	{
+		"name": "O8",
+		"parent": "bubble",
+		"length": 332.31,
+		"rotation": -179.61,
+		"x": -376.43,
+		"y": 571.71,
+		"scaleX": 0.475,
+		"scaleY": 0.475,
+		"color": "46d2faff"
+	},
+	{ "name": "sea", "parent": "root", "length": 311.02, "rotation": -90.21, "x": 842.21, "y": -393, "color": "0f009b3d" },
+	{ "name": "sea1", "parent": "sea", "length": 288.2, "rotation": -88.65, "x": 187.38, "y": -136.16 },
+	{ "name": "sea2", "parent": "sea", "length": 262.72, "rotation": -87.29, "x": 32.4, "y": -143.47 },
+	{ "name": "sea3", "parent": "sea", "length": 251.08, "rotation": -89.13, "x": -52.92, "y": -141.04 },
+	{ "name": "ship", "parent": "root", "length": 275.75, "rotation": -20.36, "x": -113.6, "y": -381.8 }
+],
+"slots": [
+	{ "name": "image/bg", "bone": "root" },
+	{ "name": "image/sea-3-2", "bone": "sea3", "color": "ffffff7d", "attachment": "image/sea-3-2" },
+	{ "name": "image/sea-3-1", "bone": "sea3", "color": "ffffff7d", "attachment": "image/sea-3-1" },
+	{ "name": "image/sea-2-2", "bone": "sea2", "color": "ffffff7d", "attachment": "image/sea-2-2" },
+	{ "name": "image/sea-2-1", "bone": "sea2", "color": "ffffff7d", "attachment": "image/sea-2-1" },
+	{ "name": "image/sea-1-1", "bone": "sea1", "color": "ffffff7d", "attachment": "image/sea-1-1" },
+	{ "name": "image/sea-1-2", "bone": "sea1", "color": "ffffff7d", "attachment": "image/sea-1-2" },
+	{ "name": "image/yacht", "bone": "ship", "attachment": "image/yacht" },
+	{ "name": "image/mask", "bone": "root" },
+	{ "name": "image/fireworks-animation_0副本", "bone": "F1" },
+	{ "name": "image/fireworks-animation_0副本2", "bone": "F2" },
+	{ "name": "image/fireworks-animation_0副本3", "bone": "F3" },
+	{ "name": "image/fireworks-animation_0副本4", "bone": "F4" },
+	{ "name": "image/fireworks-animation_0副本5", "bone": "F5" },
+	{ "name": "image/fireworks-animation_0副本6", "bone": "F6" },
+	{ "name": "image/fireworks-animation_0副本7", "bone": "F7" },
+	{ "name": "image/fireworks-animation_0副本8", "bone": "F8" }
+],
+"skins": {
+	"default": {
+		"image/sea-1-1": {
+			"image/sea-1-1": { "x": 664.14, "y": -137.09, "rotation": 178.86, "width": 1200, "height": 182 }
+		},
+		"image/sea-1-2": {
+			"image/sea-1-2": { "x": 671.95, "y": 183.8, "scaleX": 41.193, "rotation": 178.86, "width": 29, "height": 460 }
+		},
+		"image/sea-2-1": {
+			"image/sea-2-1": { "x": 660.12, "y": -100.83, "rotation": 177.51, "width": 1200, "height": 197 }
+		},
+		"image/sea-2-2": {
+			"image/sea-2-2": { "x": 649.42, "y": 212.35, "scaleX": 33.803, "rotation": 177.51, "width": 39, "height": 428 }
+		},
+		"image/sea-3-1": {
+			"image/sea-3-1": { "x": 663.04, "y": -77.72, "rotation": 179.34, "width": 1200, "height": 316 }
+		},
+		"image/sea-3-2": {
+			"image/sea-3-2": { "x": 651.15, "y": 295.37, "scaleX": 40.584, "rotation": 179.34, "width": 34, "height": 430 }
+		},
+		"image/yacht": {
+			"image/yacht": { "x": 123.9, "y": 31.82, "rotation": 20.36, "width": 517, "height": 297 }
+		}
+	}
+},
+"events": {
+	"F": { "string": "false" },
+	"O": { "string": "true" },
+	"showUserHead": {}
+},
+"animations": {
+	"sea": {
+		"slots": {
+			"image/sea-1-1": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7333, "color": "ffffff7d", "curve": "stepped" },
+					{
+						"time": 9.2333,
+						"color": "ffffff7d",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "color": "ffffff00" }
+				]
+			},
+			"image/sea-1-2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7333, "color": "ffffff7d", "curve": "stepped" },
+					{
+						"time": 9.2333,
+						"color": "ffffff7d",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "color": "ffffff00" }
+				]
+			},
+			"image/sea-2-1": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7333, "color": "ffffff7d", "curve": "stepped" },
+					{
+						"time": 9.2333,
+						"color": "ffffff7d",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "color": "ffffff00" }
+				]
+			},
+			"image/sea-2-2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7333, "color": "ffffff7d", "curve": "stepped" },
+					{
+						"time": 9.2333,
+						"color": "ffffff7d",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "color": "ffffff00" }
+				]
+			},
+			"image/sea-3-1": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7333, "color": "ffffff7d", "curve": "stepped" },
+					{
+						"time": 9.2333,
+						"color": "ffffff7d",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "color": "ffffff00" }
+				]
+			},
+			"image/sea-3-2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7333, "color": "ffffff7d", "curve": "stepped" },
+					{
+						"time": 9.2333,
+						"color": "ffffff7d",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "color": "ffffff00" }
+				]
+			},
+			"image/yacht": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"ship": {
+				"translate": [
+					{ "time": 0, "x": -466.55, "y": 160.86 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 }
+				]
+			},
+			"sea3": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -0.42,
+						"y": 115.07,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 4.8,
+						"x": 0.98,
+						"y": -264.24,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "x": -0.42, "y": 115.07 }
+				]
+			},
+			"sea2": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -8.96,
+						"y": 119.3,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 4.8,
+						"x": -7.56,
+						"y": -260.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "x": -8.96, "y": 119.3 }
+				]
+			},
+			"sea1": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0.91,
+						"y": -240.8,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 4.8,
+						"x": -6.9,
+						"y": 142.75,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "x": 0.91, "y": -240.8 }
+				]
+			}
+		}
+	},
+	"yacht": {
+		"slots": {
+			"image/sea-1-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"image/sea-1-2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"image/sea-2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"image/sea-2-2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"image/sea-3-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"image/sea-3-2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"ship": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -466.55,
+						"y": 160.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 4.7333,
+						"x": 9.67,
+						"y": 122.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 5.4333,
+						"x": 9.67,
+						"y": 86.28,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 5.9666,
+						"x": 9.67,
+						"y": 122.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 6.6333,
+						"x": 9.67,
+						"y": 86.28,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 7.4,
+						"x": 9.67,
+						"y": 122.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 8.1333,
+						"x": 9.67,
+						"y": 86.28,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "x": 729.97, "y": -213.04 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.5,
+						"y": 0.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 4.7333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 8.1333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10, "x": 1.703, "y": 1.703 }
+				]
+			},
+			"sea3": {
+				"translate": [
+					{ "time": 0, "x": -0.42, "y": 115.07 }
+				]
+			},
+			"sea2": {
+				"translate": [
+					{ "time": 0, "x": -8.96, "y": 119.3 }
+				]
+			},
+			"sea1": {
+				"translate": [
+					{ "time": 0, "x": 0.91, "y": -240.8 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.3666, "name": "O", "int": 1 },
+			{ "time": 0.4, "name": "O", "int": 2 },
+			{ "time": 0.4666, "name": "O", "int": 4 },
+			{ "time": 0.5, "name": "O", "int": 5 },
+			{ "time": 0.5666, "name": "O", "int": 7 },
+			{ "time": 0.6, "name": "O", "int": 8 },
+			{ "time": 0.6666, "name": "O", "int": 3 },
+			{ "time": 0.7, "name": "O", "int": 6 },
+			{ "time": 3.3333, "name": "F", "int": 1 },
+			{ "time": 3.7, "name": "F", "int": 2 },
+			{ "time": 4.1333, "name": "F", "int": 3 },
+			{ "time": 4.6, "name": "F", "int": 4 },
+			{ "time": 5.0666, "name": "F", "int": 5 },
+			{ "time": 5.6333, "name": "F", "int": 5 },
+			{ "time": 6.3, "name": "F", "int": 7 },
+			{ "time": 6.8, "name": "F", "int": 8 },
+			{ "time": 8.6666, "name": "O", "string": "false" }
+		]
+	}
+}
+}

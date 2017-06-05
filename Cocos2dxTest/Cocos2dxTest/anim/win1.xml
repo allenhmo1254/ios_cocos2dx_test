@@ -1,0 +1,29 @@
+<skeleton name="win1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="win1">
+      <b name="21" x="-0.6" y="-0.05" kX="0" kY="0.51" cX="3.42" cY="3.42" pX="0" pY="0" z="0">
+        <d name="win1_wpt-112" pX="60.4" pY="56.9"/>
+      </b>
+      <b name="22" x="-0.35" y="-0.05" kX="0" kY="0.5" cX="2.11" cY="2.11" pX="0.05" pY="0.4" z="1">
+        <d name="win1_wpt-112" pX="60.4" pY="56.9"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="win1">
+      <mov name="win1" dr="349" to="0" drTW="349" lp="1" twE="NaN">
+        <b name="21" sc="1" dl="0">
+          <f x="-0.6" y="-0.05" cocos2d_x="-0.6" cocos2d_y="-0.05" kX="0" kY="0.51" cX="3.42" cY="3.42" pX="0" pY="0" z="0" dI="0" twE="0" dr="348"/>
+          <f x="-0.5" y="-0.1" cocos2d_x="-0.5" cocos2d_y="-0.1" kX="1.01" kY="1.51" cX="3.42" cY="3.42" pX="0" pY="0" z="0" dI="0" twE="0" dr="1" twR="-2"/>
+        </b>
+        <b name="22" sc="1" dl="0">
+          <f x="-0.35" y="-0.05" cocos2d_x="-0.45" cocos2d_y="-0.8" kX="0" kY="0.5" cX="2.11" cY="2.11" pX="0.05" pY="0.4" z="1" dI="0" twE="0" dr="348"/>
+          <f x="-0.4" y="-0.1" cocos2d_x="-0.5" cocos2d_y="-0.85" kX="-1.01" kY="-0.51" cX="2.11" cY="2.11" pX="0.05" pY="0.35" z="1" dI="0" twE="0" dr="1" twR="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="win1" width="128" height="128">
+    <SubTexture name="win1_wpt-112" width="123" height="114" cocos2d_pX="60.4" cocos2d_pY="56.9" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

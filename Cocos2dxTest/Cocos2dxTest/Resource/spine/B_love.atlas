@@ -1,0 +1,97 @@
+
+B_love.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/E
+  rotate: false
+  xy: 1146, 135
+  size: 250, 258
+  orig: 250, 258
+  offset: 0, 0
+  index: -1
+image/L
+  rotate: false
+  xy: 1464, 1003
+  size: 228, 274
+  orig: 228, 274
+  offset: 0, 0
+  index: -1
+image/O
+  rotate: false
+  xy: 1839, 913
+  size: 181, 253
+  orig: 181, 253
+  offset: 0, 0
+  index: -1
+image/V
+  rotate: false
+  xy: 1398, 98
+  size: 176, 295
+  orig: 176, 295
+  offset: 0, 0
+  index: -1
+image/cloud
+  rotate: true
+  xy: 1694, 1043
+  size: 234, 143
+  orig: 234, 143
+  offset: 0, 0
+  index: -1
+image/heat
+  rotate: true
+  xy: 1146, 395
+  size: 436, 402
+  orig: 436, 402
+  offset: 0, 0
+  index: -1
+image/i love U
+  rotate: false
+  xy: 2, 2
+  size: 273, 61
+  orig: 273, 61
+  offset: 0, 0
+  index: -1
+image/light
+  rotate: false
+  xy: 1858, 1168
+  size: 184, 861
+  orig: 239, 933
+  offset: 39, 43
+  index: -1
+image/min_heat
+  rotate: true
+  xy: 1550, 762
+  size: 239, 215
+  orig: 239, 215
+  offset: 0, 0
+  index: -1
+image/shadow
+  rotate: true
+  xy: 1464, 1279
+  size: 750, 392
+  orig: 750, 392
+  offset: 0, 0
+  index: -1
+image/star/star1
+  rotate: false
+  xy: 739, 833
+  size: 723, 1196
+  orig: 750, 1334
+  offset: 27, 122
+  index: -1
+image/star/star2
+  rotate: false
+  xy: 2, 817
+  size: 735, 1212
+  orig: 750, 1334
+  offset: 0, 122
+  index: -1
+image/star/star3
+  rotate: true
+  xy: 2, 65
+  size: 750, 1142
+  orig: 750, 1334
+  offset: 0, 122
+  index: -1
